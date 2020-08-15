@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Windows\AddOrderWindows.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\BooksWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\CustomerWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\DashboardWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\LoginWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\ManegerWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\ReturnBookWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\AddOrderWindows.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\BooksWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\CustomerWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\DashboardWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\LoginWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\ManegerWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\ReturnBookWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

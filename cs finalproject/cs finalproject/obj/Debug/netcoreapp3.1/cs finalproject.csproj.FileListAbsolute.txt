@@ -1,0 +1,128 @@
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\cs finalproject.csprojAssemblyReference.cache
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\cs finalproject_MarkupCompile.cache
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\cs finalproject_MarkupCompile.lref
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\cs finalproject.exe
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\cs finalproject.deps.json
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\cs finalproject.runtimeconfig.json
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\cs finalproject.runtimeconfig.dev.json
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\cs finalproject.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\cs finalproject.pdb
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\DashboardWindow.g.cs
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\LoginWindow.g.cs
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\DashboardWindow.baml
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\LoginWindow.baml
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\cs finalproject.g.resources
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\cs finalproject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\cs finalproject.AssemblyInfo.cs
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\cs finalproject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\cs finalproject.csproj.CopyComplete
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\cs finalproject.dll
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\cs finalproject.pdb
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\cs finalproject.genruntimeconfig.cache
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\BooksWindow.g.cs
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\BooksWindow.baml
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\CustomerWindow.g.cs
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\CustomerWindow.baml
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\ManegerWindow.g.cs
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\ManegerWindow.baml
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\AddOrderWindows.g.cs
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\AddOrderWindows.baml
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\ReturnBookWindow.g.cs
+C:\Users\User\source\repos\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\ReturnBookWindow.baml
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\cs finalproject.exe
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\cs finalproject.deps.json
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\cs finalproject.runtimeconfig.json
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\cs finalproject.runtimeconfig.dev.json
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\cs finalproject.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\cs finalproject.pdb
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\cs finalproject.csprojAssemblyReference.cache
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\AddOrderWindows.g.cs
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\BooksWindow.g.cs
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\CustomerWindow.g.cs
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\DashboardWindow.g.cs
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\LoginWindow.g.cs
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\ManegerWindow.g.cs
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\ReturnBookWindow.g.cs
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\cs finalproject_MarkupCompile.cache
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\cs finalproject_MarkupCompile.lref
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\AddOrderWindows.baml
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\BooksWindow.baml
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\CustomerWindow.baml
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\DashboardWindow.baml
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\LoginWindow.baml
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\ManegerWindow.baml
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\Windows\ReturnBookWindow.baml
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\cs finalproject.g.resources
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\cs finalproject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\cs finalproject.AssemblyInfo.cs
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\cs finalproject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\cs finalproject.csproj.CopyComplete
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\cs finalproject.dll
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\cs finalproject.pdb
+C:\Users\User\Desktop\cs.finalproject\cs finalproject\cs finalproject\obj\Debug\netcoreapp3.1\cs finalproject.genruntimeconfig.cache

@@ -1,0 +1,40 @@
+﻿<Window x:Class="cs_finalproject.Windows.AddOrderWindows"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:cs_finalproject.Windows"
+        mc:Ignorable="d"
+        Title="AddOrderWindows" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="LblCustomerName" Content="Musteri Adi" HorizontalAlignment="Left" Margin="72,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TxtCustomerName" HorizontalAlignment="Left" Margin="46,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="123" Height="28" TextChanged="TxtCustomerName_TextChanged"/>
+        <TextBox x:Name="TxtBookName" HorizontalAlignment="Left" Margin="47,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="29"/>
+        <Label x:Name="LblBookName" Content="Kitab Adi" HorizontalAlignment="Left" Margin="78,74,0,0" VerticalAlignment="Top"/>
+        <DatePicker x:Name="DtpEndDay" HorizontalAlignment="Left" Margin="51,230,0,0" VerticalAlignment="Top" Width="183" FirstDayOfWeek="Monday"/>
+        <Button x:Name="BtnNewOrder" Content="Yarat" HorizontalAlignment="Left" Margin="63,322,0,0" VerticalAlignment="Top" Width="106" Height="33" Click="BtnNewOrder_Click"/>
+
+        <Grid Margin="253,0,0,0">
+            <DataGrid x:Name="DgvOrder" AutoGenerateColumns="False" CanUserAddRows="False" SelectionChanged="DgvOrder_SelectionChanged"   >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Width="0.15*" Header="Id" Binding="{Binding Id}"/>
+                    <DataGridTextColumn Width="0.15*" Header="Musteri Adi" Binding="{Binding Customer.Name}"/>
+                    <DataGridTextColumn Width="0.15*" Header="Kitab Id" Binding="{Binding BookId}"/>
+                    <DataGridTextColumn Width="0.15*" Header="Baslama Vaxti" Binding="{Binding startDay,  StringFormat=\{0:dd.MM.yyyy \}}"/>
+
+                    <DataGridTextColumn Width="0.15*" Header="Bitme Vaxti" Binding="{Binding endDay,  StringFormat=\{0:dd.MM.yyyy \}}"/>
+                    <DataGridTextColumn Width="0.15*" Header="Idareci Adi" Binding="{Binding ManegerId}"/>
+
+
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+        <Label x:Name="LblReturnBookTime" Content="Bitme Tarixi" HorizontalAlignment="Left" Margin="55,199,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.723,0.196"/>
+        <Label x:Name="LblManegerName" Content="Idareci Adi" HorizontalAlignment="Left" Margin="55,259,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.544,3.098"/>
+        <TextBox x:Name="TxtManegerName" HorizontalAlignment="Left" Margin="55,290,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="132" Height="27"/>
+        <DatePicker x:Name="DtpStartDay" HorizontalAlignment="Left" Margin="51,165,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LblStart" Content="Baslama vaxti" HorizontalAlignment="Left" Margin="55,134,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="BtnOrderUpdates" Content="Yenile" HorizontalAlignment="Left" Margin="63,375,0,0" VerticalAlignment="Top" Height="34" Width="106" Click="BtnOrderUpdates_Click" />
+
+    </Grid>
+</Window>

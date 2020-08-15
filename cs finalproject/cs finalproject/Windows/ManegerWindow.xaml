@@ -1,0 +1,31 @@
+﻿<Window x:Class="cs_finalproject.Windows.ManegerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:cs_finalproject.Windows"
+        mc:Ignorable="d"
+        Title="ManegerWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="LblManegerName" Content="Ad" HorizontalAlignment="Left" Margin="54,23,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TxtManegerName" HorizontalAlignment="Left" Margin="54,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="LblManegerPassword" Content="Şifrə" HorizontalAlignment="Left" Margin="54,91,0,0" VerticalAlignment="Top"/>
+        <PasswordBox x:Name="TxtManegerPassword" HorizontalAlignment="Left" Margin="54,122,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="BtnManegerAdd" Content="Əlavə et" HorizontalAlignment="Left" Margin="54,198,0,0" VerticalAlignment="Top" Height="33" Width="120" Click="BtnManegerAdd_Click"/>
+        <Button x:Name="BtnManegerUpdate" Content="Yenilə" HorizontalAlignment="Left" Margin="54,250,0,0" VerticalAlignment="Top" Height="30" Width="120" Click="BtnManegerUpdate_Click"/>
+        <Button x:Name="BtnManegerDelete" Content="Sil" HorizontalAlignment="Left" Margin="54,305,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.162,0.491" Width="120" Height="27" Click="BtnManegerDelete_Click"/>
+        <Grid Margin="271,0,0,0">
+            <DataGrid x:Name="DgvManeger" AutoGenerateColumns="False" CanUserAddRows="False" SelectionChanged="DgvManeger_SelectionChanged"  >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Width="0.20*" Header="Id" Binding="{Binding Id}"/>
+                    <DataGridTextColumn Width="0.25*" Header="Ad" Binding="{Binding Name}"/>
+                    <DataGridTextColumn Width="0.25*" Header="Şifrə" Binding="{Binding Password}"/>
+
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+    </Grid>
+
+
+    
+</Window>

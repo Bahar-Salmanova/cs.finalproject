@@ -1,0 +1,65 @@
+﻿<Window x:Class="cs_finalproject.Windows.DashboardWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:cs_finalproject.Windows"
+        mc:Ignorable="d"
+        Title="DashboardWindow" Height="450" Width="772">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="41*"/>
+            <ColumnDefinition Width="345*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="BtnBookWindowOpen" Content="Books" HorizontalAlignment="Left" Margin="24,145,0,0" VerticalAlignment="Top" Height="36" RenderTransformOrigin="9.236,0.256" Width="130" Click="BookWindowOpen_Click" Grid.ColumnSpan="2"/>
+        <Button x:Name="BtnCustomerWindowOpen" Content="Customer" HorizontalAlignment="Left" Margin="24,88,0,0" VerticalAlignment="Top" Width="130" Height="38" Click="BtnCustomer_Click" Grid.ColumnSpan="2"/>
+        <Button x:Name="BtnManegerWindowsOpen" Content="Maneger" HorizontalAlignment="Left" Margin="24,32,0,0" VerticalAlignment="Top" Height="35" Width="130" Click="BtnManegerWindowsOpen_Click" Grid.ColumnSpan="2"/>
+        <Button x:Name="BtnCreateOrder" Content="Sifaris yarat" HorizontalAlignment="Left" Margin="24,0,0,0" VerticalAlignment="Center" Height="35" Width="126" Click="BtnCreateOrder_Click" Grid.ColumnSpan="2"/>
+        <Button x:Name="BtbBookBack" Content="Kitab Qaytar" HorizontalAlignment="Left" Margin="24,256,0,0" VerticalAlignment="Top" Height="38" Width="126" Click="BtbBookBack_Click" Grid.ColumnSpan="2"/>
+        <TabControl  Grid.Column="1" Margin="107,0,0,0" SelectionChanged="TabControl_SelectionChanged">
+            
+            <TabItem x:Name="tabToday"  Header="Bugun" Margin="-2,-2,-2,0" Height="20" VerticalAlignment="Top">
+
+                <DataGrid x:Name="DgvToday" AutoGenerateColumns="False" CanUserAddRows="False"    >
+
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Width="0.15*" Header="Id" Binding="{Binding Id}"/>
+                        <DataGridTextColumn Width="0.15*" Header="Musteri Adi" Binding="{Binding Customer.Name}"/>
+                        <DataGridTextColumn Width="0.15*" Header="Kitab Id" Binding="{Binding BookId}"/>
+                        <DataGridTextColumn Width="0.15*" Header="Baslama Vaxti" Binding="{Binding startDay,  StringFormat=\{0:dd.MM.yyyy \}}"/>
+                        <DataGridTextColumn Width="0.15*" Header="Bitme Vaxti" Binding="{Binding endDay,  StringFormat=\{0:dd.MM.yyyy \}}"/>
+                        <DataGridTextColumn Width="0.15*" Header="Idareci Id" Binding="{Binding ManegerId}"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>
+            <TabItem Header="Sabah">
+                <DataGrid  x:Name="DgvTomorrow" AutoGenerateColumns="False" CanUserAddRows="False"   >
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Width="0.15*" Header="Id" Binding="{Binding Id}"/>
+                        <DataGridTextColumn Width="0.15*" Header="Musteri Adi" Binding="{Binding Customer.Name}"/>
+                        <DataGridTextColumn Width="0.15*" Header="Kitab Id" Binding="{Binding BookId}"/>
+                        <DataGridTextColumn Width="0.15*" Header="Baslama Vaxti" Binding="{Binding startDay,  StringFormat=\{0:dd.MM.yyyy \}}"/>
+                        <DataGridTextColumn Width="0.15*" Header="Bitme Vaxti" Binding="{Binding endDay,  StringFormat=\{0:dd.MM.yyyy \}}"/>
+
+                        <DataGridTextColumn Width="0.15*" Header="Idareci Id" Binding="{Binding ManegerId}"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>
+            <TabItem Header="Gecikenler" Margin="-2,-2,-2,2" >
+                <DataGrid   x:Name="DgvLate" AutoGenerateColumns="False" CanUserAddRows="False"   >
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Width="0.15*" Header="Id" Binding="{Binding Id}"/>
+                        <DataGridTextColumn Width="0.15*" Header="Musteri Adi" Binding="{Binding Customer.Name}"/>
+                        <DataGridTextColumn Width="0.15*" Header="Kitab Id" Binding="{Binding BookId}"/>
+                        <DataGridTextColumn Width="0.15*" Header="Baslama Vaxti" Binding="{Binding startDay,  StringFormat=\{0:dd.MM.yyyy \}}"/>
+                        <DataGridTextColumn Width="0.15*" Header="Bitme Vaxti" Binding="{Binding endDay,  StringFormat=\{0:dd.MM.yyyy \}}"/>
+                        <DataGridTextColumn Width="0.15*" Header="Idareci Id" Binding="{Binding ManegerId}"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>
+        </TabControl>
+
+
+
+    </Grid>
+</Window>
